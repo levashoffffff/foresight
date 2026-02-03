@@ -1,0 +1,12 @@
+.hero {
+  background-color: #000;
+  text-align: center;
+  padding: 50px 0;
+  position: relative;
+}
+
+.globe {
+  /* background: url('/path/to/globe.png') center/cover no-repeat; */ /* Добавь реальный путь */
+  height: 300px;
+  width: 100%;
+}

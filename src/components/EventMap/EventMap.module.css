@@ -1,0 +1,11 @@
+.section {
+  text-align: center;
+  padding: 50px 0;
+}
+
+.flowchart {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+}
